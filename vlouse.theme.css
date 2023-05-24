@@ -1,6 +1,5 @@
 @import url("https://custom-avatar-hints.github.io/hints/app/database.css");
 @import url("https://custom-avatar-hints.github.io/hints/app/language-hell.css");
-@import url("https://nyri4.github.io/donators/donators.css");
 @import url("https://fonts.googleapis.com/css2?family=Material+Icons");
 :root .messagesWrapper-RpOMA3 {
   flex-direction: column;
@@ -2257,7 +2256,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
   display: none;
 }
 :root .info-3pQQBb .text-xs-normal-3O7EaX:last-child::after {
-  content: "\a Couve v" var(--version);
+  content: "\a Vlouse v" var(--version);
   text-transform: none;
   white-space: pre;
 }
@@ -2757,9 +2756,9 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
 :root .container-1Lk8p7 {
   background-color: var(--background-primary);
   border-radius: 8px;
-  --background-primary: #252a3e;
-  --background-secondary: #1e2337;
-  --background-secondary-alt-alt: #1b1d31;
+  --background-primary: #212121;
+  --background-secondary: #212121;
+  --background-secondary-alt-alt: #212121;
   --header-primary: #fff;
   --header-secondary: #b9bbbe;
   --text-normal: #dcddde;
@@ -2858,7 +2857,7 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
   left: 50px;
   width: 200px;
   height: 200px;
-  background: url("https://i.imgur.com/2XrlegJ.png") center/80% no-repeat;
+  background: url("https://i.imgur.com/KNvFKAu.png") center/80% no-repeat;
   animation: jump 1s infinite;
 }
 @keyframes jump {
