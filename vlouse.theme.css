@@ -2756,9 +2756,9 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
 :root .container-1Lk8p7 {
   background-color: var(--background-primary);
   border-radius: 8px;
-  --background-primary: #212121;
-  --background-secondary: #212121;
-  --background-secondary-alt-alt: #212121;
+  --background-primary: #131313;
+  --background-secondary: #111111;
+  --background-secondary-alt-alt: #121212;
   --header-primary: #fff;
   --header-secondary: #b9bbbe;
   --text-normal: #dcddde;
