@@ -1,4 +1,6 @@
-# Vlouse theme for Discord! [![Donate][paypal-logo]][paypal-url] [![Download][download-logo]][download-url]
+# Vlouse theme for Discord! 
+
+[![Donate][paypal-logo]][paypal-url] [![Download][download-logo]][download-url]
 
 ## Feedback/Support
 
