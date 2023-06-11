@@ -1,4 +1,4 @@
-# Vlouse theme for Discord! 
+# Vlouse theme for BetterDiscord! 
 
 [![Donate][paypal-logo]][paypal-url] [![Download][download-logo]][download-url]
 
