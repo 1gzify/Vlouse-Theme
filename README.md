@@ -4,7 +4,7 @@
 
 ## Feedback/Support
 
-If you have any feedback or you need some help, please reach out to me at discord **abs#5958**
+If you have any feedback or you need some help, please reach out to me at discord **1gz**
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat-square&logo=paypal&color=blue
 [paypal-url]: https://www.paypal.com/paypalme/reklama1
